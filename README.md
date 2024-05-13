@@ -13,4 +13,4 @@
 
 ## Preview
 
-<img src="https://user-images.githubusercontent.com/103150670/199750306-2c59fc07-b780-4ce1-bc3c-77e8d4f99792.png" />
+<img src="https://github.com/DioneRodrigues/GitFav/blob/main/Screenshot_1.jpg" />
